@@ -102,12 +102,15 @@ header nav{
 
 .contenido{
     position: absolute;
-    margin-top: 80px;    
+    margin-top: 80px;
+    width: 100%;    
 }
 
 .imagenes{
     columns: 5 240px;
     margin: auto;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .card-image{
